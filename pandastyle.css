@@ -20,5 +20,8 @@ body{
 }
 h1{
     font-size: 60;
+    background: #c0bcff;
+    line-height: 80px;
+    padding: 20px; 
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
