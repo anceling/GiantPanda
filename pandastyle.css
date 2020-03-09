@@ -12,3 +12,7 @@ body{
     width: 600px; 
     margin: 40px auto;  
 }
+h1{
+    font-size: 60;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
