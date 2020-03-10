@@ -15,8 +15,13 @@ body {
     margin: 0px auto;  
     background-color: white;
     padding: 1px 40px 40px 40px; 
+<<<<<<< HEAD
+    border-left: solid 25px #524f4f;
+    border-right: solid 25px #524f4f;
+=======
     border-left: solid 25px #ff8a8a;
     border-right: solid 25px #ff8a8a;
+>>>>>>> parent of fb17ed5... New colot
 }
 h1 {
     font-size: 60;
@@ -25,11 +30,20 @@ h1 {
 }
 
 h1,h2 {
+<<<<<<< HEAD
+    text-shadow: 0px 0px 20px #ec0b0b; 
+<<<<<<< HEAD
+    color:rgb(109, 112, 109); 
+=======
+    color:black; 
+>>>>>>> parent of 329ccbd... Try new color
+=======
     text-shadow: 0px 0px 20px #99bd00; 
     color:green; 
+>>>>>>> parent of fb17ed5... New colot
 }
 
 p{
-    background: #39de98; 
+    background: #505855; 
     padding: 5px; 
 }
