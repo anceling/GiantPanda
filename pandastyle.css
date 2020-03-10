@@ -15,8 +15,8 @@ body {
     margin: 0px auto;  
     background-color: white;
     padding: 1px 40px 40px 40px; 
-    border-left: solid 25px #ff8a8a;
-    border-right: solid 25px #ff8a8a;
+    border-left: solid 25px #757171f5;
+    border-right: solid 25px #524f4f;
 }
 h1 {
     font-size: 60;
@@ -25,8 +25,8 @@ h1 {
 }
 
 h1,h2 {
-    text-shadow: 0px 0px 20px #99bd00; 
-    color:green; 
+    text-shadow: 0px 0px 20px #ec0b0b; 
+    color:black; 
 }
 
 p{
