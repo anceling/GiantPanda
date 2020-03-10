@@ -15,7 +15,7 @@ body {
     margin: 0px auto;  
     background-color: white;
     padding: 1px 40px 40px 40px; 
-    border-left: solid 25px #757171f5;
+    border-left: solid 25px #524f4f;
     border-right: solid 25px #524f4f;
 }
 h1 {
@@ -26,7 +26,11 @@ h1 {
 
 h1,h2 {
     text-shadow: 0px 0px 20px #ec0b0b; 
+<<<<<<< HEAD
     color:rgb(109, 112, 109); 
+=======
+    color:black; 
+>>>>>>> parent of 329ccbd... Try new color
 }
 
 p{
