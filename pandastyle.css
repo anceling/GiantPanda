@@ -26,10 +26,10 @@ h1 {
 
 h1,h2 {
     text-shadow: 0px 0px 20px #ec0b0b; 
-    color:green; 
+    color:rgb(109, 112, 109); 
 }
 
 p{
-    background: #39de98; 
+    background: #505855; 
     padding: 5px; 
 }
