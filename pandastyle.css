@@ -15,13 +15,8 @@ body {
     margin: 0px auto;  
     background-color: white;
     padding: 1px 40px 40px 40px; 
-<<<<<<< HEAD
-    border-left: solid 25px #524f4f;
-    border-right: solid 25px #524f4f;
-=======
     border-left: solid 25px #ff8a8a;
     border-right: solid 25px #ff8a8a;
->>>>>>> parent of fb17ed5... New colot
 }
 h1 {
     font-size: 60;
